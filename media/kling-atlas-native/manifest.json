@@ -1,0 +1,268 @@
+{
+ "version": 1,
+ "source": "desktop.mp4",
+ "sourceSha256": "f6d5a306a2d25029493b067d44a608094da5ca1cff9b045b164a46ba15f50aea",
+ "frames": 288,
+ "fps": 24,
+ "tile": [
+  1024,
+  576
+ ],
+ "grid": [
+  3,
+  2
+ ],
+ "sourceSize": [
+  1280,
+  720
+ ],
+ "mobileCrop": [
+  194,
+  0,
+  1084,
+  720
+ ],
+ "bytes": 6707444,
+ "sheets": [
+  {
+   "file": "sheet-00.webp",
+   "firstFrame": 0,
+   "bytes": 52876
+  },
+  {
+   "file": "sheet-01.webp",
+   "firstFrame": 6,
+   "bytes": 67638
+  },
+  {
+   "file": "sheet-02.webp",
+   "firstFrame": 12,
+   "bytes": 75756
+  },
+  {
+   "file": "sheet-03.webp",
+   "firstFrame": 18,
+   "bytes": 90678
+  },
+  {
+   "file": "sheet-04.webp",
+   "firstFrame": 24,
+   "bytes": 96504
+  },
+  {
+   "file": "sheet-05.webp",
+   "firstFrame": 30,
+   "bytes": 103824
+  },
+  {
+   "file": "sheet-06.webp",
+   "firstFrame": 36,
+   "bytes": 105824
+  },
+  {
+   "file": "sheet-07.webp",
+   "firstFrame": 42,
+   "bytes": 98628
+  },
+  {
+   "file": "sheet-08.webp",
+   "firstFrame": 48,
+   "bytes": 93388
+  },
+  {
+   "file": "sheet-09.webp",
+   "firstFrame": 54,
+   "bytes": 93856
+  },
+  {
+   "file": "sheet-10.webp",
+   "firstFrame": 60,
+   "bytes": 93040
+  },
+  {
+   "file": "sheet-11.webp",
+   "firstFrame": 66,
+   "bytes": 92312
+  },
+  {
+   "file": "sheet-12.webp",
+   "firstFrame": 72,
+   "bytes": 84036
+  },
+  {
+   "file": "sheet-13.webp",
+   "firstFrame": 78,
+   "bytes": 71538
+  },
+  {
+   "file": "sheet-14.webp",
+   "firstFrame": 84,
+   "bytes": 63698
+  },
+  {
+   "file": "sheet-15.webp",
+   "firstFrame": 90,
+   "bytes": 55132
+  },
+  {
+   "file": "sheet-16.webp",
+   "firstFrame": 96,
+   "bytes": 63734
+  },
+  {
+   "file": "sheet-17.webp",
+   "firstFrame": 102,
+   "bytes": 98894
+  },
+  {
+   "file": "sheet-18.webp",
+   "firstFrame": 108,
+   "bytes": 124804
+  },
+  {
+   "file": "sheet-19.webp",
+   "firstFrame": 114,
+   "bytes": 145490
+  },
+  {
+   "file": "sheet-20.webp",
+   "firstFrame": 120,
+   "bytes": 176592
+  },
+  {
+   "file": "sheet-21.webp",
+   "firstFrame": 126,
+   "bytes": 165708
+  },
+  {
+   "file": "sheet-22.webp",
+   "firstFrame": 132,
+   "bytes": 162642
+  },
+  {
+   "file": "sheet-23.webp",
+   "firstFrame": 138,
+   "bytes": 164376
+  },
+  {
+   "file": "sheet-24.webp",
+   "firstFrame": 144,
+   "bytes": 155238
+  },
+  {
+   "file": "sheet-25.webp",
+   "firstFrame": 150,
+   "bytes": 150820
+  },
+  {
+   "file": "sheet-26.webp",
+   "firstFrame": 156,
+   "bytes": 146958
+  },
+  {
+   "file": "sheet-27.webp",
+   "firstFrame": 162,
+   "bytes": 149964
+  },
+  {
+   "file": "sheet-28.webp",
+   "firstFrame": 168,
+   "bytes": 152430
+  },
+  {
+   "file": "sheet-29.webp",
+   "firstFrame": 174,
+   "bytes": 153182
+  },
+  {
+   "file": "sheet-30.webp",
+   "firstFrame": 180,
+   "bytes": 155660
+  },
+  {
+   "file": "sheet-31.webp",
+   "firstFrame": 186,
+   "bytes": 157334
+  },
+  {
+   "file": "sheet-32.webp",
+   "firstFrame": 192,
+   "bytes": 182030
+  },
+  {
+   "file": "sheet-33.webp",
+   "firstFrame": 198,
+   "bytes": 189074
+  },
+  {
+   "file": "sheet-34.webp",
+   "firstFrame": 204,
+   "bytes": 197090
+  },
+  {
+   "file": "sheet-35.webp",
+   "firstFrame": 210,
+   "bytes": 206622
+  },
+  {
+   "file": "sheet-36.webp",
+   "firstFrame": 216,
+   "bytes": 209638
+  },
+  {
+   "file": "sheet-37.webp",
+   "firstFrame": 222,
+   "bytes": 198456
+  },
+  {
+   "file": "sheet-38.webp",
+   "firstFrame": 228,
+   "bytes": 194102
+  },
+  {
+   "file": "sheet-39.webp",
+   "firstFrame": 234,
+   "bytes": 194976
+  },
+  {
+   "file": "sheet-40.webp",
+   "firstFrame": 240,
+   "bytes": 189846
+  },
+  {
+   "file": "sheet-41.webp",
+   "firstFrame": 246,
+   "bytes": 189312
+  },
+  {
+   "file": "sheet-42.webp",
+   "firstFrame": 252,
+   "bytes": 190624
+  },
+  {
+   "file": "sheet-43.webp",
+   "firstFrame": 258,
+   "bytes": 186034
+  },
+  {
+   "file": "sheet-44.webp",
+   "firstFrame": 264,
+   "bytes": 177550
+  },
+  {
+   "file": "sheet-45.webp",
+   "firstFrame": 270,
+   "bytes": 177694
+  },
+  {
+   "file": "sheet-46.webp",
+   "firstFrame": 276,
+   "bytes": 180848
+  },
+  {
+   "file": "sheet-47.webp",
+   "firstFrame": 282,
+   "bytes": 180994
+  }
+ ]
+}

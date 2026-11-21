@@ -1,0 +1,88 @@
+{
+  "version": 5,
+  "sourceSha256": "f6d5a306a2d25029493b067d44a608094da5ca1cff9b045b164a46ba15f50aea",
+  "originalsSha256": [
+    "feeec20e3ab6f99becb9a884ceebe307274f0e3691494191aa29654b3dd681da",
+    "d1293a1971d12b8bce066ab172f1f09296f61c679dd13f570e12b69e478b813f",
+    "c77f3a21ae78e70260e484f8ffd357b0b8efbee71f9dfdce7bf665bf539ee15d"
+  ],
+  "frames": 288,
+  "fps": 24,
+  "instant": {
+    "file": "instant-native.bin",
+    "tile": [
+      320,
+      180
+    ],
+    "grid": [
+      4,
+      3
+    ],
+    "bytes": 1237824,
+    "sha256": "32e8c499929e904a9661146757ad9074cf7156c337ce8e2b99a6c194f67df88a"
+  },
+  "motion": {
+    "file": "motion-mobile-native.bin",
+    "tile": [
+      1088,
+      614
+    ],
+    "grid": [
+      3,
+      2
+    ],
+    "bytes": 16289012,
+    "sha256": "498de60a841b53b87290cd68ab18f200a19a2276781160cabfdb1931cb9d5b88"
+  },
+  "motionDesktop": [
+    {
+      "file": "motion-fhd-v8-0.bin",
+      "tile": [
+        1920,
+        1080
+      ],
+      "grid": [
+        2,
+        1
+      ],
+      "bytes": 13066717,
+      "sha256": "4e11385bd640718442e2ba6ee99319e89dfd85c7b9b1e75f96e843cae5bf3824"
+    },
+    {
+      "file": "motion-fhd-v8-1.bin",
+      "tile": [
+        1920,
+        1080
+      ],
+      "grid": [
+        2,
+        1
+      ],
+      "bytes": 17351070,
+      "sha256": "7718ad3f7a7947c35a36effef8778bde8a069742e1d59f859f60505e705f8d50"
+    },
+    {
+      "file": "motion-fhd-native-2.bin",
+      "tile": [
+        1920,
+        1080
+      ],
+      "grid": [
+        2,
+        1
+      ],
+      "bytes": 20101205,
+      "sha256": "359eb4d51cdd424bd466f1d0ab4a7dfe09772b7554dcf3d1791e78c8a36c0b9b"
+    }
+  ],
+  "ending": {
+    "sourceSha256": "e97aaa2457ab463f40a15a0ee1191d42985533cbfa711d2865c67a353b0fde48",
+    "sourceSize": [
+      1916,
+      1080
+    ],
+    "firstTimelineFrame": 192,
+    "firstSourceFrame": 1,
+    "frameCount": 96
+  }
+}
